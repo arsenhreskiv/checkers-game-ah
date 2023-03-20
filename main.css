@@ -1,0 +1,29 @@
+td {
+    background-color: rgb(226, 193, 145);
+    height: 80px;
+    width: 80px;
+    text-align: center; 
+ }
+ 
+ .NoPiece {
+     background-color: rgb(28, 18, 21);
+ }
+ 
+ .redPiece {
+     width: 20px;
+     height: 20px;
+     padding: 13px;
+     background-color: red;
+     border-radius: 50px;
+     border: 3px solid white;
+    
+ }
+ 
+ .blackPiece {
+     width: 20px;
+     height: 20px;
+     padding: 13px;
+     background-color: black;
+     border-radius: 50px;
+     border: 3px solid white;
+ }
